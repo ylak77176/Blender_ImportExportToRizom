@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <paths>
+        <obj_path>C:\BlenderToRizom\AutoExportRizom.obj</obj_path>
+        <rizomuv_exe>C:\Program Files\Rizom Lab\RizomUV 2024.0\rizomuv.exe</rizomuv_exe>
+    </paths>
+    <settings>
+        <max_backups>15</max_backups>
+    </settings>
+</config>
