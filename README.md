@@ -1,7 +1,9 @@
 # Rizom Bridge
 
 A small Blender add-on to import/export an OBJ file between Blender and RizomUV.
-
+<p>
+<img src="Media/torizom.gif" alt="Demo gif" width="25%">
+</p>
 ## Features
 
 - **Add-on Preferences panel** (Edit > Preferences > Add-ons > Rizom Bridge) to set:
